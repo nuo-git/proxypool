@@ -18,6 +18,16 @@
   options:
     channel: ssrList
     num: 200
+    
+ - type: tgchannel
+  options:
+    channel: baqidingyue
+    num: 200
+    
+  - type: tgchannel
+  options:
+    channel: baipiao_4321
+    num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
